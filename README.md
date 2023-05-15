@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmanuel507
+- 👋 Hi, I’m emmanuel-the-programmer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on people to help develop the world
